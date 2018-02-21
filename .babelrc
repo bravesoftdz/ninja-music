@@ -1,0 +1,10 @@
+{
+  "presets": [
+    "babel-preset-react",
+    "es2017"
+  ],
+  "plugins": [
+    "transform-object-rest-spread",
+    "syntax-dynamic-import"
+  ]
+}
